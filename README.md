@@ -7,7 +7,6 @@ This project predicts the most suitable fertilizer for crops based on soil condi
 
 **Target Variable:** `Fertilizer Name` (Classification Problem)
 
----
 
 ## Features
 - Temperature
